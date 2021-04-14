@@ -31,7 +31,7 @@
       "react-app/jest"
     ]
   },
-  "homepage": "https://jaeki-kwon.github.io/nomflix",
+  "homepage": "https://hopeful-fermat-6627bd.netlify.app/",
   "browserslist": {
     "production": [
       ">0.2%",
