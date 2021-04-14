@@ -19,3 +19,7 @@ Learning React and ES6 by builiding a Movie Discovery App.
 - [x] TV Show Detail
 - [x] Movie Detail
 - [x] Search (Movie, TV)
+
+# Preview :
+
+Try it on [netlify] https://hopeful-fermat-6627bd.netlify.app
